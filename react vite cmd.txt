@@ -2,3 +2,8 @@ npm create vite@latest
 vite-project
 npm install
 npm run dev
+
+
+npm install @reduxjs/toolkit
+npm install tailwindcss@latest
+npx tailwindcss init 
